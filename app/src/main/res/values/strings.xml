@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Seek Bar With Landscape Layout</string>
     <string name="seekbar_progress_message">The Seekbar value is %1$d</string>
+    <string name="show_square_button">Show square</string>
+    <string name="try_to_tap_the_square">Try to tap the square</string>
+    <string name="review_button">Review</string>
+    <string name="review_text">Did you enjoy this app?</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
 </resources>
